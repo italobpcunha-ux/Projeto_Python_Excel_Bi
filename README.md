@@ -1,12 +1,51 @@
 # Projeto_Python_Excel_Bi
-Mini Projeto com análise de dados utilizando (Python, Powe Query(ETL), Power BI) 
+🚀 Mini Projeto de Análise de Dados | Python • Power Query (ETL) • Power BI
 
-Desenvolvi um Dashboad no Power BI, utilizei linguagem Python para tratar os dados, criando novas tabelas e criando um arquivo para utilização no POWER BI, fiz o tratamento também utilizando ETL com Power Query, criação de DAX no Power Bi, utilizei o chatGPT de forma intuitiva e didádica criando a planilha base, correção de erros na estrutura do código Python, ainda de forma um pouco amadora, mas foi bem educativo, pude de forma prática, aprender a corrigir e desenvolver o projeto do inicio ao fim.
+Recentemente desenvolvi um mini projeto com foco em análise e tratamento de dados, aplicando conceitos fundamentais de engenharia e visualização de dados utilizando ferramentas amplamente adotadas no mercado.
+
+🔎 Objetivo do Projeto
+
+O principal objetivo foi compreender, de forma prática, como estruturar um projeto de dados do início ao fim — desde a preparação da base até a construção de dashboards interativos. Este será meu primeiro projeto publicado no GitHub como parte do meu portfólio profissional.
+
+⸻
+
+🛠️ Tecnologias e Processos Utilizados
+
+1️⃣ Python (Pandas e manipulação de dados)
+ • Tratamento, limpeza e transformação de dados
+ • Criação de novas tabelas e estruturação da base final
+ • Exportação de arquivo estruturado para consumo no Power BI
+ • Correções e melhorias na estrutura do código ao longo do desenvolvimento
+
+2️⃣ ETL com Power Query
+ • Extração, transformação e carregamento de dados
+ • Padronização e ajustes estruturais na modelagem
+ • Aplicação de boas práticas no processo de preparação dos dados
+
+3️⃣ Power BI
+ • Modelagem de dados
+ • Criação de métricas utilizando DAX
+ • Desenvolvimento de dashboard interativo para análise visual
+
+4️⃣ Apoio com ChatGPT
+Utilizei o ChatGPT como ferramenta de apoio didático para:
+ • Estruturação inicial da base de dados
+ • Correção de erros no código Python
+ • Esclarecimento de dúvidas técnicas
+
+⸻
+
+📊 Principais Aprendizados
+ • Entendimento prático do fluxo completo de um projeto de dados
+ • Importância do tratamento adequado antes da visualização
+ • Aplicação de conceitos de ETL na prática
+ • Evolução na escrita e organização de código Python
+ • Construção de indicadores e métricas no Power BI
+
+Apesar de ser um projeto inicial, foi extremamente enriquecedor. A experiência prática de identificar erros, ajustar processos e evoluir a solução trouxe um aprendizado muito mais sólido.
 
 
+⸻
 
-O objetivo foi aprender como começar um projeto, meu primeiro projeto que vai pro Github em breve para meu portfólio pessoal, tratamento de dados utilizando ferramentas muito poderosas e claro aprimorar o conhecimento. Foi gratificante!
-
-
-
-Techs: Python, Pandas, XML, Excel, Power Query, Power Bi, ET
+Tech Stack:
+Python • Pandas • XML • Excel • Power Query • Power BI • ETL
